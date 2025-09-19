@@ -1,12 +1,53 @@
-# React + Vite
+## ShopClause — Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive, and fully functional **E-Commerce Frontend** built using **React 18**, **Tailwind CSS**, and **Vite**. This project serves as the client-side application for ShopClause, providing seamless user experience for browsing products, managing cart, orders, and user profiles.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔗 Live Demo
+[View Live Project](https://shopclause.netlify.app/)
+
+
+---
+
+
+## 💻 Features
+- Home page with hero banners, deals, and featured products
+- Product listing & product detail pages
+- Category filtering and search functionality
+- Cart & Wishlist management
+- User Authentication (Login & Signup)
+- Checkout page with payment mode selection
+- Order history & profile management
+- Responsive design for mobile, tablet, and desktop
+
+
+---
+
+
+## ⚙️ Tech Stack
+- **Frontend:** React 18, Tailwind CSS, Vite
+- **State Management:** Redux Toolkit
+- **API Handling:** Axios
+- **Routing:** React Router DOM
+- **Styling & Animations:** Tailwind CSS, Framer Motion
+
+
+---
+
+
+## 🚀 Installation
+```bash
+git clone https://github.com/akarshsharma09/shopclause-frontend.git
+cd shopclause-frontend
+npm install
+npm run dev
+
+
+---
+
+## 🌐 Built By
+[Akarsh Sharma](https://akarshcodes.netlify.app/)
+
