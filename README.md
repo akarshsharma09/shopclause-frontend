@@ -38,6 +38,12 @@ A modern, responsive, and fully functional **E-Commerce Frontend** built using *
 ---
 
 
+## 🌐 Built By
+[Akarsh Sharma](https://akarshcodes.netlify.app/)
+
+
+---
+
 ## 🚀 Installation
 ```bash
 git clone https://github.com/akarshsharma09/shopclause-frontend.git
@@ -46,8 +52,4 @@ npm install
 npm run dev
 
 
----
-
-## 🌐 Built By
-[Akarsh Sharma](https://akarshcodes.netlify.app/)
 
